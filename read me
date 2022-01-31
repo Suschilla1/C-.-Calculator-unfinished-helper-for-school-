@@ -1,0 +1,1 @@
+This is unfinished and the PlaySound commands wont work since you have to have the files on your pc. you can replace them with files in the directory of your project. The second part is left open and I will code it later. This works by itself with no sound and is a great example of what can be achieved through baic c++ code.
